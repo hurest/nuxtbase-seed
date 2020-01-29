@@ -1,0 +1,1 @@
+# nuxtbase-seed
